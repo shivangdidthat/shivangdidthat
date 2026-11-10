@@ -7,7 +7,6 @@
 <td valign="top"><img src="./avi-ascii.svg" width="370" height="220" alt="Shivang — ASCII portrait" /></td>
 <td valign="top"><img src="./wordmark.svg" width="490" alt="SHIVANG — 3D ASCII wordmark" /></td>
 </tr>
-
 </table>
 
 <br>
